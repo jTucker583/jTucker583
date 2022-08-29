@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jTucker583
+- 👀 I’m a computer science major and the University of Colorado.
+- 🌱 I’m currently learning the basics of C++, and how to get around and use Github.
