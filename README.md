@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @jTucker583
-- 👀 I’m a computer science major and the University of Colorado.
-- 🌱 I’m currently learning the basics of C++, and how to get around and use Github.
+#Hi. I'm Jake Tucker
+I'm a CS major at the University of Colorado, Boulder, with minors in Data Science and Computer Engineering.
+
+I'm involved in a couple of organizations, mostly focusing on robotics work.
